@@ -4,6 +4,7 @@
 	
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 		<class>modelo.basico.Usuario</class>
+		<class>modelo.basico.Produto</class>
 		
 		
 		<properties>
